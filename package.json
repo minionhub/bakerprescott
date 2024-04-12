@@ -1,5 +1,5 @@
 {
-  "name": "mld",
+  "name": "bakerprescott",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://mld.ng/",
@@ -47,5 +47,16 @@
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.5",
     "tailwindcss": "^3.0.7"
+  },
+  "description": "![mld edit](https://user-images.githubusercontent.com/43953425/212030864-cf3aa272-e070-4e1b-8e25-f488ca56873e.png)",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmynet444/bakerprescott.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmynet444/bakerprescott/issues"
   }
 }
