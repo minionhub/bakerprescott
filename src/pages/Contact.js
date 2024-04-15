@@ -186,7 +186,7 @@ const Contact = () => {
                 </div>
                 <div className="flex flex-col">
                   <h2 className="text-2xl">Office Address</h2>
-                  <p className="text-gray-400">
+                  <p className="white">
                     2016 TURTLE PASS TRL, Fort Worth, TX 76135
                   </p>
                 </div>
@@ -199,11 +199,11 @@ const Contact = () => {
 
                 <div className="flex flex-col">
                   <h2 className="text-2xl">Call Us</h2>
-                  <p className="text-gray-400">Tel: +1 254 254 0895</p>
+                  <p className="white">Tel: +1 254 254 0895</p>
 
                   <div className="mt-5">
                     <h2 className="text-2xl">Send an E-mail</h2>
-                    <p className="text-gray-400">
+                    <p className="white">
                       steven.reynolds@bprescott.com
                     </p>
                   </div>

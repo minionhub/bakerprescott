@@ -12,7 +12,7 @@ const Footer = () => {
             {/* 1st block */}
             <div className="col-span-12 lg:col-span-4">
               <div className="box-border border-b-4 border-blue-900 p-8 bg-gray-200 text-gray-600 text-center rounded-lg xl:w-80 mx-auto">
-                <h3 className="font-bold text-4xl mb-4">Baker Prescott</h3>
+                <h3 className="font-bold text-4xl mb-4"><img src='./logo.png'></img></h3>
                 <div className="text-md font-medium text-gray-600">
                   <p>2016 TURTLE PASS TRL,</p>
                   <p>Fort Worth, TX 76135</p>
