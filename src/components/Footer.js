@@ -15,8 +15,7 @@ const Footer = () => {
                 <h3 className="font-bold text-4xl mb-4">Baker Prescott</h3>
                 <div className="text-md font-medium text-gray-600">
                   <p>2016 TURTLE PASS TRL,</p>
-                  <p>Fort Worth,</p>
-                  <p>Texas.</p>
+                  <p>Fort Worth, TX 76135</p>
                 </div>
               </div>
             </div>

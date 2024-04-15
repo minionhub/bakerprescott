@@ -187,7 +187,7 @@ const Contact = () => {
                 <div className="flex flex-col">
                   <h2 className="text-2xl">Office Address</h2>
                   <p className="text-gray-400">
-                    2016 TURTLE PASS TRL, Fort Worth, Texas
+                    2016 TURTLE PASS TRL, Fort Worth, TX 76135
                   </p>
                 </div>
               </div>
